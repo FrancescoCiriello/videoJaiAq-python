@@ -16,7 +16,7 @@ Steps for use:
 
 You've now acquired your first video from the JAI cameras using python.
 
-N.B. You can use this for any GenICam camera - kudos to @kazunarikudo for developing harvester
+N.B. You can use this for any GenICam camera - kudos to @kazunarikudo for developing harvesters
 
 
 
