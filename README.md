@@ -5,9 +5,9 @@ Steps for use:
 1. Install Python/Anaconda
 
 2. Install relevant python modules:
-!pip install harvesters
-!pip install numpy
-!pip install opencv
+- !pip install harvesters
+- !pip install numpy
+- !pip install opencv
 
 3. Install JAI SDK
 - identify path to the relevant .cti file, e.g. 'C:/Program Files/JAI/SDK/bin/JaiUSB3vTL.cti')
