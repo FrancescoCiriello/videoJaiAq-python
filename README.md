@@ -1,5 +1,5 @@
 # videoJaiAq-python
-A repository of files to acquire videos using our JAI 5000-M USB cameras in the CUED laboratory.
+A repository of files to acquire videos using our JAI 5000-M USB cameras in the CUED Fluids laboratory.
 
 Steps for use:
 1. Install Python/Anaconda
@@ -15,6 +15,8 @@ Steps for use:
 4. run .py script
 
 You've now acquired your first video from the JAI cameras using python.
+
+N.B. You can use this for any GenICam camera - kudos to @kazunarikudo for developing harvester
 
 
 
